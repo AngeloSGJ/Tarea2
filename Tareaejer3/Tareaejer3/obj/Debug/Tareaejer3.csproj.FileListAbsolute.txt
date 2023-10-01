@@ -1,0 +1,8 @@
+T:\visual\Tareaejer3\Tareaejer3\bin\Debug\Tareaejer3.exe.config
+T:\visual\Tareaejer3\Tareaejer3\bin\Debug\Tareaejer3.exe
+T:\visual\Tareaejer3\Tareaejer3\bin\Debug\Tareaejer3.pdb
+T:\visual\Tareaejer3\Tareaejer3\obj\Debug\Tareaejer3.csproj.AssemblyReference.cache
+T:\visual\Tareaejer3\Tareaejer3\obj\Debug\Tareaejer3.csproj.SuggestedBindingRedirects.cache
+T:\visual\Tareaejer3\Tareaejer3\obj\Debug\Tareaejer3.csproj.CoreCompileInputs.cache
+T:\visual\Tareaejer3\Tareaejer3\obj\Debug\Tareaejer3.exe
+T:\visual\Tareaejer3\Tareaejer3\obj\Debug\Tareaejer3.pdb

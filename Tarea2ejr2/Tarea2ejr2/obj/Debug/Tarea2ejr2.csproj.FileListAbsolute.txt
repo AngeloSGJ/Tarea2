@@ -1,0 +1,8 @@
+T:\visual\Tarea2ejr2\Tarea2ejr2\bin\Debug\Tarea2ejr2.exe.config
+T:\visual\Tarea2ejr2\Tarea2ejr2\bin\Debug\Tarea2ejr2.exe
+T:\visual\Tarea2ejr2\Tarea2ejr2\bin\Debug\Tarea2ejr2.pdb
+T:\visual\Tarea2ejr2\Tarea2ejr2\obj\Debug\Tarea2ejr2.csproj.AssemblyReference.cache
+T:\visual\Tarea2ejr2\Tarea2ejr2\obj\Debug\Tarea2ejr2.csproj.SuggestedBindingRedirects.cache
+T:\visual\Tarea2ejr2\Tarea2ejr2\obj\Debug\Tarea2ejr2.csproj.CoreCompileInputs.cache
+T:\visual\Tarea2ejr2\Tarea2ejr2\obj\Debug\Tarea2ejr2.exe
+T:\visual\Tarea2ejr2\Tarea2ejr2\obj\Debug\Tarea2ejr2.pdb
